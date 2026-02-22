@@ -1,0 +1,7 @@
+{
+  "blueprint": "TikTok_Affiliate_Automation_v1",
+  "target_niche": "daily_drive",
+  "steps": ["Scrape URL", "Extract Images", "Generate Veo Video", "Schedule TikTok"],
+  "tools": ["Bright Data", "OpenRouter", "Google Drive", "TikTok Partner Center"],
+  "linked_supabase_id": "verified"
+}
