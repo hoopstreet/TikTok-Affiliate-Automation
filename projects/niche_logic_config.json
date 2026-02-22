@@ -1,0 +1,12 @@
+{
+  "market": "Asia/Manila",
+  "daily_frequency": 3,
+  "post_times": ["06:00", "12:00", "18:00"],
+  "buffer_target": 30,
+  "selection_strategy": "FIFO_OLDEST_FIRST",
+  "pre_post_checks": ["stock_availability", "commission_status"],
+  "storage": {
+    "video": "Dropbox",
+    "data": "Supabase"
+  }
+}
