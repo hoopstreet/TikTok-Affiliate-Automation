@@ -1,7 +1,11 @@
 {
-  "project_name": "TikTok-Affiliate-Automation",
-  "version": "4.2.1",
-  "creator": "Hoopstreet",
-  "engine": "n8n + Supabase",
-  "niches": ["MK Online", "Hoopstreet", "Daily Drive PH", "Budget Accessories"]
+  "version": "4.2.3",
+  "engine": "n8n AI Assistant",
+  "memory_db": "Supabase (api.builder_memory)",
+  "projects": [
+    {"name": "MK Online", "id": "0130288d-9eba-42ee-af48-9a7802a7b268", "niche": "Apparel"},
+    {"name": "Hoopstreet", "id": "f39d12af-914e-40c6-8e27-e646724485f6", "niche": "Sports"},
+    {"name": "Daily Drive PH", "id": "43d0678a-9fac-4ce1-8e87-4f8bf2675337", "niche": "Motorcycle"},
+    {"name": "Budget Accessories", "id": "b4cf44ab-0a8a-4a1e-9378-71abaa8e1201", "niche": "Tech"}
+  ]
 }
